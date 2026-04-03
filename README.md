@@ -47,6 +47,7 @@ I love clean architecture, automation, and building systems that scale.
 ### 🔭 What I'm Working On
 
 - 🏨 Enterprise hospitality SaaS modules at **Kinetic Solutions** (bookings, events, inspections, catering)
+- 📦 [**MyApp.Api**](https://github.com/huzefa5152/MyApp.Api) — Full-stack Delivery Challan Management System (ASP.NET Core 9 + React 19)
 - 🔌 Microservice integrations (SOAP/REST) and CI/CD pipeline automation
 - 🌐 Open-source projects in .NET, React, DevOps, and ML — check my pinned repos below
 
